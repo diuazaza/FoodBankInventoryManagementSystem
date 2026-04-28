@@ -1,8 +1,8 @@
-# Food Bank Inventory Management System - Milestone 2
+# Food Bank Inventory Management System
 
 A comprehensive Java-based inventory management system for food banks with advanced features for tracking donations, managing inventory, and ensuring food safety.
 
-## What's New in Milestone 2
+## What's New
 
 ### Major Features Added
 1. **Food Categories** - 11 predefined categories for better organization
